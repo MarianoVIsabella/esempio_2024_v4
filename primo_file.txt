@@ -1,4 +1,9 @@
 rieccoci
 E ora pure il paperino
+<<<<<<< HEAD
 Modifica del main
+=======
+Modificato il branch
+
+>>>>>>> ramificazione
 
